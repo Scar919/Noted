@@ -1,15 +1,21 @@
 # Noted
 
+# Technology Used 
+JavaScript| HTML| CSS| Express
+
 ## Description
 The motivation behind this project was to create a website for small business owners to save notes and keep themselves organized. The front end of this project had already been given and I was tasked with connecting the front end and back end together.
 
+## Usage
+1. Visit the webpage link and click "Get Started"
+2. You will be taken to the Note Taker page and be see a Note Title header. You can write a header for your notes and right below add some content into the "Note Text" section.
+3. on the upper right hand corner a save icon will be populated after writing your first note. You can hit save and will see your  notes saved on th left hand column.
+4. If you would like to write more notes hit the "+" icon next to the save button in the upper right corner.
 
-# Technology Used 
-JavaScript| HTML| CSS
+
+
 ## Installation
-In order to install this feature you should do the following:
-
-Download Node onto your computer Fork the repo from github Clone the repo from github Run "npm install" Run "npm install "
+N/A
 
 ## Test
 N/A
