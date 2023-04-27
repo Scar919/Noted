@@ -12,6 +12,7 @@ The motivation behind this project was to create a website for small business ow
 3. on the upper right hand corner a save icon will be populated after writing your first note. You can hit save and will see your  notes saved on th left hand column.
 4. If you would like to write more notes hit the "+" icon next to the save button in the upper right corner.
 
+![IMG](./public/assets/IMG.png)
 
 
 ## Installation
